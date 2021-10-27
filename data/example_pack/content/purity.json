@@ -1,0 +1,8 @@
+{
+	"type": "status_effect:neutral",
+	"color": {
+		"red": 1,
+		"green": 1,
+		"blue": 1
+	}
+}

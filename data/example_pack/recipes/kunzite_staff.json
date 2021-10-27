@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        " / ",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "/": {
+            "item": "example_pack:kunzite_rod"
+        }
+    },
+    "result": {
+        "item": "example_pack:kunzite_staff",
+        "count": 1,
+        "data": {
+            "Powers": [
+                {
+                    "Slot": "mainhand",
+                    "Hidden": 1,
+                    "Negative": 0,
+                    "Power": "example_pack:use_staff"
+                },
+                {
+                    "Slot": "mainhand",
+                    "Hidden": 1,
+                    "Negative": 0,
+                    "Power": "example_pack:use_staff_2"
+                }
+            ]
+        }
+    }
+}

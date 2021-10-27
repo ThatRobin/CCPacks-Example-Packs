@@ -1,0 +1,9 @@
+{
+	"type": "projectile:item",
+	"damage": 4,
+	"base_item": "minecraft:magenta_dye",
+	"damage_source": {
+		"name": "staff",
+		"magic": true
+	}
+}

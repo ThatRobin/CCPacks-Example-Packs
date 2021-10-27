@@ -1,0 +1,13 @@
+{
+    "type": "ccpacks:stat_bar",
+    "start_value": 20,
+    "hud_render": {
+        "should_render": true,
+        "bar_index": 0,
+        "side": "right",
+        "sprite_location": "example_pack:textures/gui/icons.png"
+    },
+    "icon": "minecraft:emerald",
+    "name": "Mana Abilities",
+    "description": "You can use mana with your magical staff to activate its powers."
+}

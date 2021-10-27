@@ -1,0 +1,33 @@
+{
+	"type": "apoli:active_self",
+	"entity_action": {
+		"type": "apoli:add_velocity",
+		"z": 0.5,
+		"space": "local"
+	},
+	"condition": {
+		"type": "apoli:and",
+		"conditions": [{
+			"type": "apoli:fall_flying"
+		},
+		{
+			"type": "apoli:equipped_item",
+			"equipment_slot": "chest",
+			"item_condition": {
+				"type": "apoli:enchantment",
+				"enchantment": "example_pack:winged_boost",
+				"comparison": ">=",
+				"compare_to": 1
+			}
+		}]
+	},
+	"cooldown": 0,
+	"key": {
+        "key": "key.ccpacks.winged_boost",
+        "continuous": false
+	},
+	"hud_render": {
+		"should_render": false
+	},
+	"hidden": true
+}

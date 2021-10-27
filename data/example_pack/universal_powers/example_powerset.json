@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"example_pack:beneficial_effect",
+		"example_pack:fragile",
+		"example_pack:harmful_effect",
+		"example_pack:neutral_effect",
+		"example_pack:particles",
+		"example_pack:winged_boost"
+	],
+	"entity_entry": {
+		"tag": "example_pack:all_entities"
+	}
+}

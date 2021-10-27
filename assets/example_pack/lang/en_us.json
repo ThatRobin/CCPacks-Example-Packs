@@ -1,0 +1,32 @@
+{
+	"block.example_pack.kunzite_ore_gravel": "Kunzite Ore",
+	"block.example_pack.kunzite_block": "Kunzite Block",
+	"block.example_pack.kunzite_stairs": "Kunzite Stairs",
+	"block.example_pack.kunzite_fence_gate": "Kunzite Fence Gate",
+	"block.example_pack.kunzite_slab": "Kunzite Slab",
+	"block.example_pack.kunzite_fence": "Kunzite Fence",
+	"block.example_pack.kunzite_wall": "Kunzite Wall",
+
+	"item.example_pack.kunzite_gem": "Kunzite Gemstone",
+	"item.example_pack.kunzite_rod": "Kunzite Rod",
+	"item.example_pack.kunzite_staff": "Kunzite Staff",
+	"item.example_pack.kunzite_sword": "Kunzite Sword",
+	"item.example_pack.kunzite_axe": "Kunzite Axe",
+	"item.example_pack.kunzite_boots": "Kunzite Boots",
+	"item.example_pack.kunzite_chestplate": "Kunzite Chestplate",
+	"item.example_pack.kunzite_trinket": "Kunzite Trinket",
+	"item.example_pack.glitter_food": "Glitter Food",
+	"item.example_pack.kunzite_leggings": "Kunzite Leggings",
+	"item.example_pack.kunzite_helmet": "Kunzite Helmet",
+
+	"effect.example_pack.purity": "Purity",
+	"effect.example_pack.climbing_claws": "Climbing Claws",
+	"effect.example_pack.weak_hearted": "Weak Hearted",
+
+	"enchantment.example_pack.fragile": "Curse of Fragility",
+	"enchantment.example_pack.winged_boost": "Winged Boost",
+
+	"category.example_pack_keybinds": "Example Pack Keybinds",
+
+	"key.ccpacks.winged_boost": "Winged Boost Key"
+}

@@ -1,0 +1,27 @@
+{
+	"type": "apoli:action_over_time",
+	"entity_action": {
+		"type": "apoli:chance",
+		"action": {
+			"type": "apoli:equipped_item_action",
+			"equipment_slot": "mainhand",
+			"action": {
+				"type": "apoli:damage",
+				"amount": 1,
+				"ignore_unbreaking": true
+			}
+		},
+		"chance": 0.1
+	},
+	"interval": 40,
+	"condition": {
+		"type": "apoli:equipped_item",
+		"equipment_slot": "mainhand",
+		"item_condition": {
+			"type": "apoli:enchantment",
+			"enchantment": "example_pack:fragile",
+			"comparison": ">=",
+			"compare_to": 1
+		}
+	}
+}

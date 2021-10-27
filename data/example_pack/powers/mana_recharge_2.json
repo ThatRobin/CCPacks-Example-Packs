@@ -1,0 +1,19 @@
+{
+    "type": "apoli:action_over_time",
+    "entity_action": {
+        "type": "ccpacks:change_stat",
+        "stat_bar": "example_pack:mana_bar",
+        "change": 1
+    },
+    "condition": {
+        "type": "ccpacks:equipped_trinket",
+        "item_condition": {
+            "type": "apoli:ingredient",
+            "ingredient": {
+                "item": "example_pack:kunzite_trinket"
+            }
+        }
+    },
+    "interval": 40,
+    "hidden": true
+}

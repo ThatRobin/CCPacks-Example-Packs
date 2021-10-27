@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "top": "example_pack:block/kunzite_block",
+    "bottom": "example_pack:block/kunzite_block",
+    "side": "example_pack:block/kunzite_block",
+    "particle": "example_pack:block/kunzite_block"
+  }
+}
