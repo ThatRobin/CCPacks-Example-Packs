@@ -13,7 +13,7 @@
   "name": "CCPacks Example Pack",
   "id": "example_pack",
   "version": "0.1.0",
-  "description": "An Example Pack for CCPakcs",
+  "description": "An Example Pack for CCPacks",
   "license": "MIT License",
   "pack_format": 7
 }
