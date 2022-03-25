@@ -1,0 +1,12 @@
+{
+	"type": "item:armor",
+	"name": "Kunzite Boots",
+	"slot": "feet",
+	"texture": "kunzite",
+	"durability": 750,
+	"protection": 5,
+	"toughness": 1,
+	"knockback_resistance": 0,
+	"enchantability": 6,
+	"item_group": "materials"
+}

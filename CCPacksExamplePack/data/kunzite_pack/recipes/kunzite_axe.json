@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "-- ",
+        "-/ ",
+        " / "
+    ],
+    "key": {
+        "/": {
+            "item": "kunzite_pack:kunzite_rod"
+        },
+        "-": {
+            "item": "kunzite_pack:kunzite_gem"
+        }
+    },
+    "result": {
+        "item": "kunzite_pack:kunzite_axe",
+        "count": 1
+    }
+}

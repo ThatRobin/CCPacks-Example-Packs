@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "kunzite_pack:block/kunzite_block"
+  }
+}

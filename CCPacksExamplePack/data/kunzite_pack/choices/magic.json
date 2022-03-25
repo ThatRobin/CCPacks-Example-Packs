@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "kunzite_pack:mana_bar",
+        "kunzite_pack:mana_recharge"
+    ],
+    "icon": {
+        "item": "minecraft:diamond"
+    },
+    "name": "Magic User",
+    "description": "You can harness mana to use in a staff!"
+}

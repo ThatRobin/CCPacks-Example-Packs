@@ -1,0 +1,39 @@
+{
+    "type": "ccpacks:action_on_projectile_land",
+    "projectile": "kunzite_pack:staff_projectile",
+    "self_action": {
+        "type": "apoli:and",
+        "actions": [
+            {
+                "type": "ccpacks:change_stat",
+                "stat_bar": "kunzite_pack:mana_bar",
+                "change": -2
+            },
+            {
+                "type": "apoli:equipped_item_action",
+                "equipment_slot": "mainhand",
+                "action": {
+                    "type": "apoli:if_else",
+                    "condition": {
+                        "type": "ccpacks:compare_durability",
+                        "comparison": ">",
+                        "compare_to": 0
+                    },
+                    "if_action": {
+                        "type": "apoli:damage",
+                        "amount": 1
+                    },
+                    "else_action": {
+                        "type": "apoli:consume",
+                        "amount": 1
+                    }
+                }
+            }
+        ]
+    },
+    "damage_condition": {
+        "type": "apoli:projectile",
+        "projectile": "kunzite_pack:staff_projectile"
+    },
+    "cooldown": 0
+}

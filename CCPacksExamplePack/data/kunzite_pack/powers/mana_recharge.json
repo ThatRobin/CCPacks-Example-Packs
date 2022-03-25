@@ -1,0 +1,12 @@
+{
+    "type": "apoli:action_over_time",
+    "entity_action": {
+        "type": "ccpacks:change_stat",
+        "stat_bar": "kunzite_pack:mana_bar",
+        "change": 1
+    },
+    "interval": 40,
+    "icon": "minecraft:nether_star",
+    "name": "Mana Regeneration",
+    "description": "You can regain your mana. It regenerates even faster when you wear a kunzite trinket"
+}

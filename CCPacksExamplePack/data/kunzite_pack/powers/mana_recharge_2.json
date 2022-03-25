@@ -1,0 +1,21 @@
+{
+    "type": "apoli:action_over_time",
+    "entity_action": {
+        "type": "ccpacks:change_stat",
+        "stat_bar": "kunzite_pack:mana_bar",
+        "change": 1
+    },
+    "condition": {
+        "type": "ccpacks:equipped_trinket",
+        "item_condition": {
+            "type": "apoli:ingredient",
+            "ingredient": {
+                "item": "kunzite_pack:kunzite_trinket"
+            }
+        }
+    },
+    "name": "Enhanced Mana Regeneration",
+    "description": "While this trinket is equipped, you have additional mana regeneration",
+    "interval": 40,
+    "hidden": true
+}

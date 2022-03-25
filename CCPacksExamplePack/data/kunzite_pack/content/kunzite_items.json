@@ -1,0 +1,24 @@
+{
+	"type": "item_group:generic",
+	"icon": "kunzite_pack:kunzite_staff",
+	"items": [
+		"kunzite_pack:kunzite_block",
+		"kunzite_pack:kunzite_fence",
+		"kunzite_pack:kunzite_fence_gate",
+		"kunzite_pack:kunzite_ore_gravel",
+		"kunzite_pack:kunzite_slab",
+		"kunzite_pack:kunzite_stairs",
+		"kunzite_pack:kunzite_wall",
+		"kunzite_pack:glitter_food",
+		"kunzite_pack:kunzite_axe",
+		"kunzite_pack:kunzite_boots",
+		"kunzite_pack:kunzite_chestplate",
+		"kunzite_pack:kunzite_gem",
+		"kunzite_pack:kunzite_helmet",
+		"kunzite_pack:kunzite_leggings",
+		"kunzite_pack:kunzite_rod",
+		"kunzite_pack:kunzite_staff",
+		"kunzite_pack:kunzite_sword",
+		"kunzite_pack:kunzite_trinket"
+	]
+}

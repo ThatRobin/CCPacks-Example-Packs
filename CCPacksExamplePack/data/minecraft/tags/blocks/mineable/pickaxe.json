@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "kunzite_pack:kunzite_block",
+        "kunzite_pack:kunzite_fence",
+        "kunzite_pack:kunzite_fence_gate",
+        "kunzite_pack:kunzite_slab",
+        "kunzite_pack:kunzite_stairs",
+        "kunzite_pack:kunzite_wall"
+    ]
+}

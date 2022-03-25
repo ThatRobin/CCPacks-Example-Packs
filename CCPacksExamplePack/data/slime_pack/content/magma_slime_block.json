@@ -1,0 +1,34 @@
+{
+    "type": "block:generic",
+    "mechanics": [
+        "slime_pack:negate_fall"
+    ],
+    "render_layer": "translucent",
+    "material": {
+        "liquid": false,
+        "solid": true,
+        "blocks_movement": true,
+        "blocks_light": false,
+        "burnable": false,
+        "piston_behaviour": "normal"
+    },
+    "block_sound_group": {
+        "pitch": 1,
+        "volume": 1,
+        "break_sound": "block.slime_block.break",
+        "step_sound": "block.slime_block.step",
+        "place_sound": "block.slime_block.place",
+        "hit_sound": "block.slime_block.hit",
+        "fall_sound": "block.slime_block.fall"
+    },
+    "transparent": true,
+    "hardness": 0,
+    "resistance": 0,
+    "luminance": 5,
+    "requires_tool": false,
+    "loot_table": "slime_pack:blocks/magma_slime_block",
+    "block_item": {
+        "name": "Magma Slime Block",
+        "item_group": "building_blocks"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "kunzite_pack:block/kunzite_block",
+    "top": "kunzite_pack:block/kunzite_block",
+    "side": "kunzite_pack:block/kunzite_block"
+  }
+}

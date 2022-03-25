@@ -1,0 +1,32 @@
+{
+	"type": "block:falling",
+	"material": {
+		"liquid": false,
+		"solid": true,
+		"blocks_movement": true,
+		"blocks_light": true,
+		"burnable": false,
+		"piston_behaviour": "normal"
+	},
+	"requires_tool": false,
+	"block_sound_group": {
+		"pitch": 1,
+		"volume": 1,
+		"break_sound": "block.gravel.break",
+		"step_sound": "block.gravel.step",
+		"place_sound": "block.gravel.place",
+		"hit_sound": "block.gravel.hit",
+		"fall_sound": "block.gravel.fall"
+	},
+	"collidable": true,
+	"transparent": false,
+	"hardness": 3,
+	"slipperiness": 0.6,
+	"resistance": 3,
+	"luminance": 0,
+	"loot_table": "kunzite_pack:blocks/kunzite_ore_gravel",
+	"block_item": {
+		"name": "Kunzite Gravel Ore",
+		"item_group": "none"
+	}
+}

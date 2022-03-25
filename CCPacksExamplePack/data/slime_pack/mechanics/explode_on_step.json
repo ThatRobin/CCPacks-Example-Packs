@@ -1,0 +1,10 @@
+{
+    "type": "ccpacks:on_step",
+    "block_action": {
+        "type": "apoli:explode",
+        "power": 5,
+        "destruction_type": "break",
+        "damage_self": true,
+        "create_fire": true
+    }
+}

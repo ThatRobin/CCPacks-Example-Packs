@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "slime_pack:block/crafting_slime_block"
+    }
+  }
+}

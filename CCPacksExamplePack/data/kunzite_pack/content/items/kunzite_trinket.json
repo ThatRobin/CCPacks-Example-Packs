@@ -1,0 +1,11 @@
+{
+	"type": "item:trinket",
+	"name": "Kunzite Trinket",
+	"item_powers": [
+		{
+			"power": "kunzite_pack:mana_recharge_2",
+			"hidden": false,
+			"negative": false
+		}
+	]
+}

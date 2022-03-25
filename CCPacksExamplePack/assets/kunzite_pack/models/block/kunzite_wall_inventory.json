@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "kunzite_pack:block/kunzite_block"
+  }
+}

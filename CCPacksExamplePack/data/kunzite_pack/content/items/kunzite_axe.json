@@ -1,0 +1,13 @@
+{
+    "type": "item:axe",
+    "name": "Kunzite Axe",
+    "durability": 450,
+    "mining_speed_multiplier": 10,
+    "attack_damage": 11,
+    "attack_speed": 1.1,
+    "mining_level": 4,
+    "enchantability": 12,
+    "lore": [
+        "a fragile tool and weapon"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "kunzite_pack:block/kunzite_ore_gravel",
+    "down": "kunzite_pack:block/kunzite_ore_gravel",
+    "north": "kunzite_pack:block/kunzite_ore_gravel",
+    "south": "kunzite_pack:block/kunzite_ore_gravel",
+    "west": "kunzite_pack:block/kunzite_ore_gravel",
+    "east": "kunzite_pack:block/kunzite_ore_gravel",
+    "particle": "kunzite_pack:block/kunzite_ore_gravel"
+  }
+}

@@ -1,0 +1,34 @@
+{
+	"type": "block:stairs",
+	"material": {
+		"allow_light": false,
+		"allow_movement": true,
+		"blocks_pistons": false,
+		"burnable": false,
+		"destroyed_by_piston": false,
+		"liquid": false,
+		"not_solid": false,
+		"replaceable": false
+	},
+	"requires_tool": true,
+	"block_sound_group": {
+		"pitch": 1,
+		"volume": 1,
+		"break_sound": "block.amethyst_block.break",
+		"step_sound": "block.amethyst_block.step",
+		"place_sound": "block.amethyst_block.place",
+		"hit_sound": "block.amethyst_block.hit",
+		"fall_sound": "block.amethyst_block.fall"
+	},
+	"collidable": true,
+	"transparent": false,
+	"hardness": 3,
+	"slipperiness": 0.6,
+	"resistance": 3,
+	"luminance": 0,
+	"loot_table": "kunzite_pack:blocks/kunzite_stairs",
+	"block_item": {
+		"name": "Kunzite Stairs",
+		"item_group": "none"
+	}
+}

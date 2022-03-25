@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "kunzite_pack:block/kunzite_block",
+    "down": "kunzite_pack:block/kunzite_block",
+    "north": "kunzite_pack:block/kunzite_block",
+    "south": "kunzite_pack:block/kunzite_block",
+    "west": "kunzite_pack:block/kunzite_block",
+    "east": "kunzite_pack:block/kunzite_block",
+    "particle": "kunzite_pack:block/kunzite_block"
+  }
+}

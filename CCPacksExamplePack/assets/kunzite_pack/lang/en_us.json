@@ -1,0 +1,14 @@
+{
+	"effect.kunzite_pack.purity": "Purity",
+	"effect.kunzite_pack.climbing_claws": "Climbing Claws",
+	"effect.kunzite_pack.weak_hearted": "Weak Hearted",
+
+	"enchantment.kunzite_pack.fragile": "Curse of Fragility",
+	"enchantment.kunzite_pack.winged_boost": "Winged Boost",
+
+	"category.kunzite_pack_keybinds": "Kunzite Pack Keybinds",
+
+	"key.ccpacks.winged_boost": "Winged Boost Key",
+
+	"itemGroup.kunzite_pack.kunzite_items": "Kunzite Pack"
+}

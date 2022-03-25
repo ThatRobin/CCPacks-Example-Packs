@@ -1,7 +1,0 @@
-{
-	"type": "apoli:disable_regen",
-	"condition": {
-		"type": "apoli:status_effect",
-		"effect": "example_pack:weak_hearted"
-	}
-}

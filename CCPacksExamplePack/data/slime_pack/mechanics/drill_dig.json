@@ -1,0 +1,8 @@
+{
+    "type": "ccpacks:tick",
+    "interval": 40,
+    "block_action": {
+        "type": "apoli:execute_command",
+        "command": "execute unless block ~ ~-1 ~ #minecraft:dragon_immune run setblock ~ ~-1 ~ air destroy"
+    }
+}

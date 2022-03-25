@@ -1,0 +1,6 @@
+{
+    "type": "ccpacks:on_use",
+    "entity_action": {
+        "type": "apoli:crafting_table"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "environment": "*",
+  "depends": {
+    "minecraft": "\u003e\u003d1.17",
+    "fabric": "*",
+    "fabric-api-base": "*",
+    "ccpacks": "\u003e\u003d1.0.0"
+  },
+  "authors": [
+    "ThatRobin"
+  ],
+  "name": "ccpacks-example-pack",
+  "id": "example_pack",
+  "version": "0.2.0",
+  "description": "An Example Pack for CCPacks",
+  "license": "MIT License"
+}

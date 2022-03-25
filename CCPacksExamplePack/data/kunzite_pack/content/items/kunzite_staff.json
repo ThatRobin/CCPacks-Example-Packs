@@ -1,0 +1,23 @@
+{
+	"type": "item:pullback",
+	"name": "Kunzite Staff",
+	"entity_type": "kunzite_pack:staff_projectile",
+	"item_group": "none",
+	"durability": 100,
+	"max_count": 1,
+	"start_colour": {
+		"red": 0.85882352941,
+		"green": 0.45882352941,
+		"blue": 0.92156862745
+	},
+	"end_colour": {
+		"red": 0.62352941176,
+		"green": 0.07843137254,
+		"blue": 0.70980392156
+	},
+	"item_powers": [
+		{
+			"power": "kunzite_pack:use_staff"
+		}
+	]
+}

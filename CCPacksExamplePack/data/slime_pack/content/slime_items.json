@@ -1,0 +1,11 @@
+{
+    "type": "item_group:generic",
+    "icon": "slime_pack:drill_slime_block",
+    "items": [
+        "slime_pack:chorus_slime_block",
+        "slime_pack:drill_slime_block",
+        "slime_pack:explosive_slime_block",
+        "slime_pack:magma_slime_block",
+        "slime_pack:crafting_slime_block"
+    ]
+}

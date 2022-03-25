@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " //",
+        "///",
+        "// "
+    ],
+    "key": {
+        "/": {
+            "item": "kunzite_pack:kunzite_gem"
+        }
+    },
+    "result": {
+        "item": "kunzite_pack:kunzite_trinket",
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{   "parent": "block/block",
+	"textures": {
+		"particle": "slime_pack:block/explosive_slime_block",
+		"texture": "slime_pack:block/explosive_slime_block",
+		"side": "slime_pack:block/explosive_slime_block_side"
+	},
+	"elements": [
+		{   "from": [ 3, 3, 3 ],
+			"to": [ 13, 13, 13 ],
+			"faces": {
+				"down":  { "uv": [ 3, 3, 13, 13 ], "texture": "#texture" },
+				"up":    { "uv": [ 3, 3, 13, 13 ], "texture": "#texture" },
+				"north": { "uv": [ 3, 3, 13, 13 ], "texture": "#side" },
+				"south": { "uv": [ 3, 3, 13, 13 ], "texture": "#side" },
+				"west":  { "uv": [ 3, 3, 13, 13 ], "texture": "#side" },
+				"east":  { "uv": [ 3, 3, 13, 13 ], "texture": "#side" }
+			}
+		},
+		{   "from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "down" },
+				"up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "up" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "north" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "south" },
+				"west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "west" },
+				"east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "east" }
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "kunzite_pack:block/kunzite_slab_bot"
+    },
+    "type=double": {
+      "model": "kunzite_pack:block/kunzite_block"
+    },
+    "type=top": {
+      "model": "kunzite_pack:block/kunzite_slab_top"
+    }
+  }
+}

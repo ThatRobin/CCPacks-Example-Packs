@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"kunzite_pack:beneficial_effect",
+		"kunzite_pack:fragile",
+		"kunzite_pack:harmful_effect",
+		"kunzite_pack:neutral_effect",
+		"kunzite_pack:particles",
+		"kunzite_pack:winged_boost"
+	],
+	"entity_entry": {
+		"tag": "kunzite_pack:all_entities"
+	}
+}
